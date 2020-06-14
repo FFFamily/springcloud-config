@@ -1,1 +1,3 @@
-version:"1"
+version: "1"
+config:
+  info: "springcloud-dev.yml version=1"
